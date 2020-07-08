@@ -876,7 +876,7 @@ data:
             ]
         },
         "pytorch": {
-            "image": "gcr.io/kfserving/pytorchserver-kaustav4284",
+            "image": "kaustav4284/pytorchserver:latest",
             "defaultImageVersion": "0.2.2",
             "allowedImageVersions": [
                "0.2.2"
