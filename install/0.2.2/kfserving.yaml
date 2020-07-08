@@ -876,10 +876,10 @@ data:
             ]
         },
         "pytorch": {
-            "image": "kaustav4284/pytorchserver:latest",
-            "defaultImageVersion": "0.2.2",
+            "image": "kaustav4284/pytorchserver",
+            "defaultImageVersion": "latest",
             "allowedImageVersions": [
-               "0.2.2"
+               "latest"
             ]
         },
         "tensorrt": {
